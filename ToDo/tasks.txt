@@ -1,0 +1,3 @@
+bca,High,✔
+abc,High,Unknown
+.G.,AEL,Unknown
